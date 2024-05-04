@@ -1,0 +1,40 @@
+body {
+  color : white;
+  background-color: #1f3426;
+}
+
+.barra-superior{
+  width: 100%;
+  height: fit-content;
+  background-color: #298d4c;
+  display: flex;
+  
+  padding: 20px;
+}
+
+.icon{
+
+}
+
+.list{
+  display: flex;
+  margin-left: 25px;
+  text-align: end;
+  justify-content: end;
+  
+}
+.contenedor{
+  margin-top: 25px;  
+}
+
+a{
+  font-size: x-large;
+  color : rgb(255, 255, 255);
+  margin-left: 25px;
+  align-content: center;
+}
+
+.image{
+  width: 400px;
+  height: 300px;
+}
